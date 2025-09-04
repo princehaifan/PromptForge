@@ -1,0 +1,5 @@
+{
+  "name": "PromptForge",
+  "description": "An AI-powered application that generates detailed, actionable image prompts from user-uploaded images, enabling content creators and AI artists to precisely replicate visual styles for consistent content generation.",
+  "requestFramePermissions": []
+}
